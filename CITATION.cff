@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Guidi"
+  given-names: "Elia"
+title: "Simulation Tool for Token Dynamics"
+version: 1.0.0
+date-released: 2026-08-01
+url: "https://github.com/eliaguidi/Simulation_Token_Dynamic"
